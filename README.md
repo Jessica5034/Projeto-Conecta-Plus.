@@ -1,2 +1,2 @@
-# Projeto-Conecta-Plus.
+# Projeto-Conecta+
 Atividade Extensionista II - Projeto Conecta+.   
